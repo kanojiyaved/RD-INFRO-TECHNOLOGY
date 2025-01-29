@@ -1,27 +1,51 @@
-# RD INFRO TECHNOLOGY - Internship Tasks
+**Fraudulent Credit Card Transaction Detection**
 
-Welcome to the official repository for my internship tasks at RD INFRO TECHNOLOGY. This repository documents my journey as a Machine Learning Intern and showcases the projects and tasks completed during the internship.
+**📌 Project Overview**
 
-# 📌 About the Internship
+This project aims to build a machine learning model to detect fraudulent credit card transactions. Using a dataset containing transaction details, I experimented with different classification algorithms, including Logistic Regression, Decision Trees, and Random Forests, to distinguish between fraudulent and legitimate transactions.
 
-At RD INFRO TECHNOLOGY, I am exploring the fascinating world of machine learning and data-driven decision-making. My role involves:
+This project is part of my internship at RD INFRO TECHNOLOGY.
 
-- Analyzing complex datasets.
+**📂 Dataset**
 
-- Uncovering patterns and insights.
+The dataset contains anonymized credit card transaction records, with features representing transaction attributes. The target variable indicates whether a transaction is fraudulent (1) or legitimate (0).
 
-- Building predictive models.
+**⚙️ Technologies Used**
 
-- Contributing to innovative solutions that drive strategic initiatives.
+  -Python 
 
-# 🚀 Key Highlights
+ -Pandas & NumPy (Data Handling)
 
-- Project-Based Learning: Each folder contains a specific task with detailed documentation and code.
+ -Scikit-Learn (Machine Learning)
 
-- Technologies Used: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy, and Matplotlib.
+ -Matplotlib & Seaborn (Data Visualization)
 
-- Focus Areas: Data preprocessing, machine learning model development, evaluation, and real-world applications.
+ -Jupyter Notebook / Google Colab
 
- # 🌟 Acknowledgments
+ -📊 Machine Learning Models Implemented
 
-I am incredibly thankful to **RD INFRO TECHNOLOGY** for this opportunity and for providing an excellent platform to grow and contribute. Special thanks to my mentors and teammates for their guidance and support throughout the internship.
+ -SMOTE (Synthetic Minority Oversampling Technique)
+
+ -Logistic Regression
+
+ -Decision Trees
+
+ -Random Forest
+
+**🏆 Results & Insights**
+
+Analyzed the dataset to identify key patterns in fraudulent transactions.
+
+Random Forest showed the best performance in terms of detecting fraud while minimizing false positives.
+
+**📌 Future Improvements**
+
+   -Try advanced techniques like XGBoost or Neural Networks.
+
+   -Implement real-time fraud detection using streaming data.
+
+   -Optimize model performance with hyperparameter tuning.
+
+**🔗 Connect With Me**
+
+Let's connect! Feel free to check out my LinkedIn profile: **Vedant Kanojiya**
