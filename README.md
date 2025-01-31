@@ -29,18 +29,18 @@ Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 
-**Machine Learning Models:**
+# **Machine Learning Models:**
 
- -Logistic Regression 📈
+  -Logistic Regression 📈
 
- -Random Forest 🌲
+  -Random Forest 🌲
 
- -Gradient Boosting 🌟
+  -Gradient Boosting 🌟
 
- -Jupyter Notebook / Google Colab for experiments
+  -Jupyter Notebook / Google Colab for experiments
 
 
-**📊 Approach**
+# **📊 Approach**
 
  -Data Preprocessing 🔄
 
@@ -69,7 +69,7 @@ Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
  -Analyzing feature importance
 
 
-**🎯 Expected Outcome**
+# **🎯 Expected Outcome**
 
  -A trained ML model that can accurately predict customer churn.
 
