@@ -1,27 +1,57 @@
-# RD INFRO TECHNOLOGY - Internship Tasks
+# 📌 Spam Classification using ML Models
 
-Welcome to the official repository for my internship tasks at RD INFRO TECHNOLOGY. This repository documents my journey as a Machine Learning Intern and showcases the projects and tasks completed during the internship.
+# 🔹 Internship Task 4 | RD INFO TECHNOLOGY
 
-# 📌 About the Internship
+# 🚀 Project Overview
+This project focuses on detecting spam messages using machine learning techniques. By utilizing TF-IDF and word embeddings, we train models like Naïve Bayes, Logistic Regression, and Support Vector Machines (SVM) to classify messages as spam or ham (not spam).
 
-At RD INFRO TECHNOLOGY, I am exploring the fascinating world of machine learning and data-driven decision-making. My role involves:
+# 🔍 Tech Stack & Tools Used
 
-- Analyzing complex datasets.
+✅ Python 🐍
 
-- Uncovering patterns and insights.
+✅ Scikit-Learn 📊
 
-- Building predictive models.
+✅ Natural Language Processing (NLP) ✨
 
-- Contributing to innovative solutions that drive strategic initiatives.
+✅ TF-IDF Vectorizer 🔢
 
-# 🚀 Key Highlights
+✅ Word Embeddings (Word2Vec, GloVe) 🧠
 
-- Project-Based Learning: Each folder contains a specific task with detailed documentation and code.
+✅ Matplotlib 📊 (for data visualization)
 
-- Technologies Used: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy, and Matplotlib.
+✅ Machine Learning Models (Naïve Bayes, Logistic Regression, SVM)
 
-- Focus Areas: Data preprocessing, machine learning model development, evaluation, and real-world applications.
+# 💡 Project Highlights
 
- # 🌟 Acknowledgments
+📌 Preprocessed text data for better model accuracy
 
-I am incredibly thankful to **RD INFRO TECHNOLOGY** for this opportunity and for providing an excellent platform to grow and contribute. Special thanks to my mentors and teammates for their guidance and support throughout the internship.
+📌 Implemented TF-IDF & word embeddings for feature extraction
+
+📌 Compared ML classifiers to find the best-performing model
+
+📌 Achieved high accuracy in spam detection
+
+# 🎯 How It Works
+
+1️⃣ Load & preprocess the dataset 🗂️
+
+2️⃣ Convert text into numerical vectors using TF-IDF / Word Embeddings
+
+3️⃣ Train classifiers like Naïve Bayes, Logistic Regression, and SVM
+
+4️⃣ Predict whether a message is spam or ham 📨
+
+# 📢 Results & Insights
+
+✔️ Model Comparison: Analyzed accuracy, precision, and recall
+
+✔️ Best Model: Identified the most effective classifier for spam detection
+
+✔️ Real-world Application: Can be extended to email filtering, SMS moderation, and more!
+
+
+# 💬 Let’s Connect!
+
+📩 Feel free to reach out for discussions, suggestions, or collaborations! 🚀
+
+# #️⃣ #MachineLearning #SpamDetection #NLP #TFIDF #WordEmbeddings #AI #NaiveBayes #LogisticRegression #SVM #Matplotlib #RDINFROTECH #Python #Internship
